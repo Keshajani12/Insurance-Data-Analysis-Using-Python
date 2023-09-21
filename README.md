@@ -67,4 +67,16 @@ The script proceeds to perform a linear regression analysis to predict 'bmi' bas
 
 # Screenshots
 
+![1](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-Python/assets/143489586/722f8792-ee1e-4185-8955-097025c7c5dd)
 
+![2](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-Python/assets/143489586/43b4fc7f-10f6-4535-9b8c-41c89d2ff06c)
+
+![3](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-Python/assets/143489586/949a47b7-9be6-45e5-8013-e192f5ae0818)
+
+![4](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-Python/assets/143489586/e4abbeb6-3bf0-4ee8-af67-b94d010d4f9a)
+
+![5](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-Python/assets/143489586/1015288d-13e6-4b67-86ce-7f7d5c47b752)
+
+![6](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-Python/assets/143489586/15b8aafb-7a72-4aa6-9d74-01351eabbc6b)
+
+![7](https://github.com/Keshajani12/Insurance-Data-Analysis-Using-Python/assets/143489586/19f69e58-d34f-499f-81df-ab01ce32fb58)
