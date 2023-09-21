@@ -20,7 +20,7 @@ The main objective of this data is exploring and analyzing a dataset related to 
 ● Implementing a linear regression model to predict bmi according age group.
 
 # Installation
-1. Clone this repository: git clone https://github.com/
+1. Clone this repository: git clone https://github.com/Keshajani12/Insurance-Data-Analysis-Using-Python.git
 
 2. Navigate to the project directory: cd Insurance
 
