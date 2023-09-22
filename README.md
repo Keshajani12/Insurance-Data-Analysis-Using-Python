@@ -26,7 +26,7 @@ The main objective of this data is exploring and analyzing a dataset related to 
 
 3. Install the required Python packages using pip: pip install pandas numpy matplotlib seaborn scikit-learn
 
-Or
+# Or
 Download Zip and Install requirements.txt write command : pip install -r requirements.txt
 
 # Usage
